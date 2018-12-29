@@ -1,0 +1,213 @@
+/*******************************************
+ * Anahita Sethi 
+ * Array.cpp
+ * COMP15
+ * Spring 2018
+ *
+ * Implementation for Arrrrrrray of Pirates
+ *******************************************/ 
+
+#include "ArrayList.h"
+#include <iostream> 
+using namespace std; 
+
+// Default constructor
+// Length and current position default to 0
+ArrayList::ArrayList()
+{
+    length = 0;
+    curr_pos = 0;
+    curr_capacity = MAX_PIRATES; 
+    // Dynamically allocates space on heap for Pirate array
+    pirates = new Pirate[MAX_PIRATES];  
+}
+
+// Function find_pirate
+// Inputs: Pirate object, bool by reference
+// Returns: Pirate object
+// Does: Looks for pirate in the array, modifies bool if found
+//       Returns the object from the list and not the passed one
+//       (In case they're different.)
+Pirate ArrayList::find_pirate(Pirate p, bool &found) const
+{ 
+    int location = 0;
+
+    while ((location < length) && !found)
+    {
+        if (p == pirates[location])
+        {
+            found = true;
+            p = pirates[location];
+            break;
+        }
+        location++;
+    }
+    return p;
+}
+
+// Function insert_pirate
+// Inputs: Pirate object
+// Returns: Nothing
+// Does: Adds Pirate to end of array, increases length
+void ArrayList::insert_pirate(Pirate p)
+{ 
+    bool found = false; 
+    find_pirate(p, found); 
+    if (found == false)
+    {
+      if (length < curr_capacity)
+      {
+    	   pirates[length] = p;
+    	   length++; 
+      }  
+      if (length >= curr_capacity)
+      {	
+	       expand();  
+    	   pirates[length] = p; 
+	       length++; 
+      }
+    }    
+}
+
+ 
+// Function delete_pirate
+// Inputs: Pirate object
+// Returns: Nothing
+// Does: Deletes pirate, shifts everything else over
+void ArrayList::delete_pirate(Pirate p)
+{
+  bool found = false; 
+  for (int i = 0; i < length; i++)
+  { 
+    if (pirates[i] == find_pirate(p, found))
+    { 
+	   for (int j = i; j < length - 1; j++)
+	   { 
+		    pirates[j] = pirates[j+1];
+	  	    length--; 
+	
+		    if (length <= ((curr_capacity/2))
+		    {
+			     shrink(); 
+		    }  
+	   } 
+     break;  
+    }
+  } 
+x}
+
+// Function get_next_pirate
+// Input: None
+// Returns: Pirate object
+// Does: Returns pirate at curr_pos
+//       Increments curr_pos, but wraps around
+Pirate ArrayList::get_next_pirate()
+{
+    Pirate p = pirates[curr_pos];
+    curr_pos = (curr_pos + 1) % length;
+    return p;
+}
+
+// Function make_empty
+// Input: none
+// Returns: none
+// Does: sets length to 0 (memory not modified)
+void ArrayList::make_empty()
+{
+    length = 0;
+}
+
+// Function reset_array
+// Input: none
+// Returns: none
+// Does: sets curr_pos to 0 
+void ArrayList::reset_array()
+{
+    curr_pos = 0;
+}
+
+// Function print
+// Input: none, const
+// Returns: none
+// Does: Prints array from 0 to length
+void ArrayList::print(ostream& outfile) const 
+{
+    for (int i = 0; i < length; i++)
+    {
+        pirates[i].print(outfile);
+
+        if (i == length - 1)
+        {
+          outfile << ", "; 
+        }
+    } 
+}
+
+/* 
+// Function is_full
+// Input: none, const
+// Returns: bool
+// Does: Compares actual length to capacity
+bool ArrayList::is_full() const
+{
+    return (length >= MAX_PIRATES-1);
+}
+*/ 
+
+// Function get_length
+// Input: none, oncst
+// Returns: int
+// Does: Returns the value in length attribute
+int ArrayList::get_length() const
+{
+    return length;
+}
+
+//Function expand
+//Input: none
+//Returns: none
+//Does: Expands the array to hold 200 pirates
+void ArrayList::expand()
+{ 
+  //    cout << "Expand fxn" << endl; 
+  //cout << "Current capacity:" << curr_capacity; 
+  // cout << "Length: " << endl; 
+    curr_capacity *= 2; 
+    cout << "Expand to " << curr_capacity  << endl; 
+    Pirate *place = new Pirate[curr_capacity]; 
+ 
+    for (int i = 0; i < length; i++) 
+    {
+	   place[i] = pirates[i]; 
+    } 
+
+    delete []pirates; 
+    pirates = place; 
+} 
+	
+//Input: none
+//Returns: none
+//Does: Shrinks array to half its size  
+void ArrayList::shrink()
+{ 
+  // cout << "Shrink function" << endl; 
+  curr_capacity /= 2; 
+  cout << "Contract to " << curr_capacity << endl; 
+  Pirate *temp = new Pirate[curr_capacity]; 
+
+  for (int i = 0; i < length; i++)
+  {
+	 temp[i] = pirates[i]; 
+  }
+
+  delete []pirates; 
+  pirates = temp; 
+}
+
+// Destructor
+// Deletes dynamic pirates array
+ArrayList::~ArrayList()
+{
+        delete []pirates;
+} 
+ 
