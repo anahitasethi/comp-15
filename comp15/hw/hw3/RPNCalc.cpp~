@@ -1,0 +1,123 @@
+/***********************
+ * Anahita Sethi
+ * COMP 15
+ * HW3
+ * RPN Implementation
+ **********************/
+
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include "RPNCalc.h"
+using namespace std;  
+
+bool is_operator(const string& input); 
+bool check_for_double(const string input, double &num); 
+
+//Best practice to include a constructor 
+RPNCalc::RPNCalc()
+{
+}
+
+void RPNCalc::run()
+{
+	string input;
+	double &num = 0; 
+	//Do I need this if its a paramater of another function 
+	while ((input != "Q") || (input != "q"))
+	{  
+		cin >> input; 
+
+		if (check_for_double(input, num) == true)
+		{
+			s.push(num); 	
+		}
+
+		else if (is_operator(input) == true)
+		{
+			double first, second, result; 
+
+			first = s.Top(); 
+			s.pop(); 
+			second = s.Top(); 
+			s.pop(); 
+
+			if (input == "-")
+			{
+				result = first - second; 
+			}
+
+			else if (input == "+")
+			{
+				result = first + second; 
+			}
+
+			else if (input == "*")
+			{
+				result = first * second; 
+			}
+
+			else if (input == "/")
+			{
+				result = first / second; 
+			}
+
+			s.push(result); 
+		}
+
+		else if ((input == "P") || (input == "p"))
+		{
+			cout << s.Top() << endl; 
+		}
+
+		else if ((input == "C") || (input == "c"))
+		{
+			s.make_empty(); 
+		}
+
+		/*
+		else if ((input == "F") || (input == "f"))
+		{
+
+		}
+
+		else if (input == )
+		{
+
+		}
+		*/ 
+
+		else 
+		{
+			cout << "Command is not implemented" << endl; 
+		}
+	}
+	//Quits 
+	return; 
+}
+
+bool is_operator(const string& input)
+{
+	string operations[] = {"-", "+", "*", "/"}; 
+	for (int i = 0; i < 4; i++)
+	{
+		if (input == operations[i])
+		{
+			return true; 
+		}
+	}
+	return false; 
+}
+
+bool check_for_double(const string input, double &num)
+{
+	try 
+	{
+		num = stod(input);
+		return true; 
+	}
+	catch (invalid_argument exception)
+	{
+		return false; 
+	}
+}

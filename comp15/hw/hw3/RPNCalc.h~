@@ -1,0 +1,34 @@
+/************************
+ * Anahita Sethi
+ * COMP 15
+ * HW 3 
+ * RPN Calc Header File
+ ***********************/
+
+#include <fstream>
+#include <string>
+#include "Stack.h"
+using namespace std; 
+
+#ifndef RPNCALC_H_
+#define RPNCALC_H_
+
+class RPNCalc 
+{
+public: 
+	//Default constructor
+	RPNCalc();
+
+	//Reads in inputs
+	void run(); 
+
+	//Checks if input is an operator 
+	bool is_operator(const string& input); 
+	bool check_for_double(const string input, double& num); 
+	void file (string filename); 
+
+public:
+	Stack s; 
+};
+
+#endif
