@@ -1,0 +1,97 @@
+/***********************
+* Anahita Sethi
+* README
+* Homework 5
+* COMP 15
+************************/ 
+
+/************************
+Classes and modules used
+*************************/ 
+
+The classes used in this program are the actor class, 
+graph class, and six degrees class. The actor class 
+has two attributes: the name of the actor, a string, and
+the a Linked List of movies the actor has been in. The
+graph class uses queues, stacks, and the actor class, with
+functions to create an unweighted, undirected graph 
+data structure whose vertices are Actor objects and 
+edges are strings that connect the objects. The six
+degrees class is responsible for the graph as well as
+user interaction. Its only attribute is a graph of 
+actor objects. The functions in this class are used to
+initialize and populate the graph, run the program, and
+use Breadth-First Search to find and print a path from 
+vertices of actor objects. 
+
+/*************************
+ADTS used
+*************************/ 
+The ADT's used in this program are: LinkedLists, Stacks,
+Queues, Graphs, Structs, and a function: Breadth First Search
+to find the shortest, valid path between two vertices. In order
+to implement a BFS, we start at a source vertex, visit all of 
+its neighbors, then visit all of its neighbors' neighbors,
+and so on until we have reached our destination vertex. This
+function makes the use of labeling vertices as marked, two 
+queues (a primary queue and a neighbor queue) and a predecessor
+array that helps track the overall path between vertices. 
+The graph data structure used in this program was represented
+by an adjacency list, which is a linked list for each vertex
+(actor objects), containing all neighbors (strings of movies). 
+
+/*************************
+The assignment 
+*************************/ 
+To be completely honest, I struggled quite a lot with this 
+assignment. I think the most difficult part was populating
+the graph using the star delimiter and finding the edge
+between the two actor objects. I dealt with this situation
+using several conditions and a new function "connect" and
+"get vertex" to return the common movie string and add an edge. 
+I also really struggled with reporting my path, and got a 
+segmentation fault for actor obejcts with more than one costar
+distance, but not for actors that share a movie. 
+That being said, however, I am very proud of my BFS implementation, 
+and my determination through populate graph and report path, 
+despite the challenges I went through. I ran diff on the expected
+output and my files and my program works as expected, thus all
+parts of this program were completely pretty successfully. One
+thing I did not handle was an edge case for a user looking for
+a connection with themself, because I assumed that a user will
+not need to know the costar distance with themself. 
+
+/*************************
+Code testing 
+*************************/ 
+I tested my actor class very thoroughly. I tested the insert movie
+and in movie functions by making a new actor object and inserting
+movies into its LinkedList and then checking for that movie and in
+that, checking if it was inserted correctly. I also tested the connect
+function by inserting movies into two different actor objects and 
+then checking if the returned overlapping movie is the expected movie.
+I tested the comparison operators and the >> operator by checking if
+the actor objects are equal to each other, and then printing out
+to terminal the different objects. 
+
+Quite honestly, getting caught up in the challenges of the 
+assignment and my segmentation fault errors, my test functions for
+the graph and six degrees classes are not as in depth as I would have
+liked them to be. I underestimated the difficulty of the functions 
+in Six Degrees and that set me back a lot in testing the edge cases. 
+However, I have a simple test that calls run on Six Degrees, which 
+calls the Breadth First Search Function, and populate function, which
+I was using to debug before I used main, which were a little modified
+due to the command line arguments.
+
+/************************
+Recognitions
+*************************/ 
+I really want to thank the COMP TA's for their undying commitment
+in helping us in office hours! There were so many times TA's stayed
+past duty, or were the only ones on duty, or that sat down and
+helped break down concepts, which was truly a huge help for me. 
+The resources and people at Halligan have really made working
+through problems in homeworks so much easier. Thank you!!!!
+
+
