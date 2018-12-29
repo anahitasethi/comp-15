@@ -1,0 +1,252 @@
+/********************
+* Anahita Sethi
+* COMP 15
+* Project 1
+* README
+*********************/ 
+
+/* Data structures and algorithms used: */ 
+
+This project implements queues, binary trees, binary search trees, postorder, 
+preorder, and inorder traversals, inheritance, wrapper functions, 
+and FILE I/O. 
+
+The data structure, queues, are used to as an auxiliary for the Binary Tree
+Class. They operate in a first-in-first-out context (FIFO). 
+
+Binary trees are hierarchical data structures composed of nodes, with a left
+and right pointer, and a data element. 
+A binary search tree is a type of binary tree where the nodes are sorted in
+order, such that for each node, all elements in its left subtress are less 
+than or equal to the node, and all elements in its right subtree are greater
+than the node. 
+
+Tree traversals are methods by which each node in the tree is visited. There
+are three types: inorder, where the left subtree is recursively called, the 
+root is visited, then the right subtree is recursively called.  Preorder 
+traversalsfirst visit the root, then traverse through the left subtree, 
+and then the rightsubtree. Finally, postorder traversals first traverse 
+the left subtree, traversethe right subtree, and then visit the root last. 
+These traversals were useful in this project to print out different nodes 
+in the tree, as well as to search for specific nodes, such as the leftmost, 
+rightmost, or for the find function where the information in a node needed 
+to be found. 
+
+Inheritance is the process of creating new classes from existing classes. 
+In this project, BinarySearchTree inherits from BinaryTree. Syntactically, 
+this means that the keyword "virtual" is placed in front of inherited 
+functions, which will have the same name, return type and parameters in 
+the inherited class. It also means that there are certain derived functions 
+that the base class handles, such as the destructor, so that they don't have 
+to be handled in the derived class. 
+
+Wrapper functions were used in this project since they use recursion and 
+do not have access to the root. They are called by member functions. This 
+is especially important in this program because there is protected member
+root which we do not want the user to have access to manipulate. Utilizing
+wrapper functions do not directly give access to root, root is merely
+passed into them from the member functions. 
+
+FILE I/O, which has been used in several programs previous to this project, 
+utilizes the creation of file stream objects and using C++ syntax to open, 
+check for error, read from, and assign to values in our code from different 
+files. 
+
+
+/* My code: */ 
+This program implements a game of Survivor using the aforementioned techniques,
+data structures, and different classes. 
+In the BinaryTree class, I have an assignment operator, copy constructor and
+a copy helper function that help with making a deep copy by copying over all
+of the material in a tree. I have two bool functions that return true / false
+depending on whether the tree is empty or full by trying to create a new node
+and catching it if the tree is full and it cannot add a new node. An empty 
+tree is checked by returning true if the root is NULL. I have three member 
+functions to call the recursive wrapper functions - get_height, get_length,
+and get_leaves which return the recursive call to each respective function. 
+All of these functions start by passing in the root. The recursive function 
+for count_height recursively gets the height by comparing left and right
+subtrees and returning an integer value. The count_nodes function, called by
+get_length, recursively counts the total number of nodes in the tree. The
+count_leaves function recursively calls the total number of leaves. I also 
+have three functions to call the recursive functions to print out the tree 
+recursively either in inorder, preorder, or postorder, so long as the tree is 
+not NULL. I have a member function for insert, find, and remove, which makes
+the call to the recursive wrapper functions so long as the tree is not full 
+to insert, and the tree is not empty for remove. Find makes the call 
+regardless of any conditional. The wrapper function for insert finds the next
+open spot using a queue, allocates a new BinaryNode and sets its information
+to the given tree. The wrapper find function also uses an auxiliary queue to 
+iterate through the tree until the item is found. It updates the item 
+reference with the one actually found, and bool reference with true or false.
+The wrapper remove function also uses an auxiliary queue to find the deepest
+item, swaps the delete with deepest item, and deletes the item. This remove
+function calls a wrapper function called delete_deepest, which helps with 
+implementing the removal of a certain node. Two member functions get
+either the left or rightmost element in a tree by making a call to the 
+recursive wrapper functions that traverses through either the left or right
+subtree in order to find the deepest respective node. This is used in round
+two of the game, where the ages in the left and righmost subtrees are
+compared to the average age. I have two functions to print information - 
+one which prints the whole tree by calling the print root function of 
+survivor, printing the height, number of nodes, and number of leaves, and 
+another function which only prints the root. These will both be implemented
+in the driver - the whole tree is printed while all of the survivors are
+still competing, and solely the information in the root is printed when 
+there is one survivor remaining. 
+In order to access the age, which is a private attribute of survivor, a
+get_age function which returns the age was added to survivor. In order to 
+calculate the average of all of the survivors in the tree, I created a 
+member function to get the average which recursively calculates the sum 
+of all ages by getting the sum at the root and then traversing through the
+left and right subtrees to get the ages at each of those nodes. Then, in 
+another function to calculate the average, this function to get the sum is
+called, then the number of nodes is calculated, and finally the average, 
+which returns a double, is calculated by converting the age and number of
+nodes to a double and then dividing. Finally, a destroy function which is 
+used by the destructor and assignment operator uses postfix order to delete 
+nodes one by one. 
+
+BinarySearchTree inherits from the BinaryTree class, which means that some
+functions, such as the destructor, are handled by the base class. The copy
+and assignment operators are the same as in the BinaryTree class, making 
+a call to a recursive helper copy function which makes a deep copy of 
+the tree by traversing through the left and right subtrees. BST also
+utilizes member functions find, insert, and remove which make calls 
+to the recursive wrapper functions to handle these operations. Find 
+item takes in a TreeItem, which is actually a survivor, because of 
+keywrod "typedef" used in the Tree.h file. The find function does nothing
+if the tree points to null, recursively traverses through the left or
+right subtree by comparing the item to be found to the info in the tree.
+When the info in the tree is equal to the item, it sets found to true. If
+the item is not found at all, it sets found equal to false. The insert 
+wrapper recursive function recursively traverses through the tree to find
+the correct position to insert. The remove BST function has three instances
+of removing a node: removing a leaf, removing a one child node & removing
+a two child node. The remove item member function makes the call to the 
+recursive function if the item is found. The wrapper remove function 
+checks if the tree is NULL, traverses through the subtrees by comparing
+the info in the tree to the item to be deleted, and then once it is found, 
+it checks if it is a leaf and deletes it using a temporary pointer. Else, 
+it checks if the node has one child in which case it creates another temp
+pointer, updates where it points to and then deletes the temp pointer. 
+For a two child node, a helper function to get the predecessor, or largest
+element in the left subtree is used. The new temporary pointer points to the
+node returned by the get predecessor function. The information is updated, 
+and then a recursive call to traverse through the left and remove is made. 
+
+The survivor class keeps track of private member variables: first and last 
+name, hometown, state, and age. There are get age and get first name 
+variables which give access to these private variables which is needed
+in the BinaryTree Class, and in the survivor driver. The survivor class
+has a default and paramterized constructor, a print function which 
+accepts a reference to ostream and prints out the survivor information. 
+It also has a generate_next_castaway function which reads in information
+from an input file to variables. A set name function is used in the test
+driver, and then overloading operators are used to compare the last
+names of survivors. If the survivor last names are equal, the first names
+are then compared to see if those are equal. These overloading operators
+return either true or false bools and help in comparing the survivors 
+information to each other. 
+
+The tree file has a BinaryNode struct with three attributes, a TreeItem, 
+a left pointer, and a right item. A TreeItem is a Survivor object, due to
+key word "typedef". TreeItem is used as a parameter for several of the 
+above functions and in some instances, it is even returned (for example
+in the get leftmost and rightmost nodes). 
+
+The driver utilizes the above functions to implement two rounds of a 
+Survivor game where only one survivor can win. I used a random number 
+generator to generate either number one or two. If number one is 
+generator, the binary tree is populated with castaways and the 
+binary search tree is populated with stowaways. If the number is 
+two, it's vice versa. The tree is populated using a function I created
+in main, where it opens a file for reading, with the filename being
+passed in as a parameter. While the file is not at the end of the 
+file, it calls the generate_next_castaway function from the survivor,
+which reads in information. It inserts the items into either the
+binary tree or binary search tree so long as the information is not
+equal to the -1 sentinel at the end of files. This then allows us to 
+enter round one, where the number of leaves in both the binary tree
+and binary search tree are calculated. The one with the less leaves
+wins the first round. The loser (with more trees) has their tree 
+printed out to the terminal. I created two conditionals for this 
+where round two is entered depending on which tree has fewer leaves.
+If the leaves are equal, BinaryTree wins. Within each conditional, 
+I have a while loop which has its conditions met if there is more
+than one more remaining survivor in the tree and the game is not 
+over. In the while loop, the average age is computed, then the 
+left and rightmost nodes in the winning tree are found. The ages
+in both the left and rightmost nodes are found and then an 
+absolute value function is used to determine which one is 
+closer to the average age. The one that is closer is the one that
+wins.The one that is further gets voted off the island, their 
+tree is printed, and they are removed from the tree. When there is
+only one node (winning survivor) left in the tree, the information
+in that node is accessed using either get or leftmost, which returns
+a TreeItem. It doesn't matter if left or rightmost is called 
+because there is only one item so it will print the information
+regardless. When there is only one winner, left, the print 
+function is called which prints only the information at the
+root. At the end, the BST and BT instances that were created
+at the beginning of main are deleted to be careful about
+having no memory leaks. BinaryTree and BinarySearchTree interact 
+because of the fact that BST inherits from BT. The driver interacts
+with these classes using pointer objects of the tree. Survivor objects 
+are also created. 
+
+My test drivers use simple tests to make sure that simple functions
+are working the way they are supposed to. For binary tree, the 
+number of nodes is tested by passing in the number of expected
+items, which should be 0 at the beginning, and seeing if the length 
+is equal to what's expected. It is called again after inserting
+and removing some nodes, to make sure that it works after these
+functions are called. The insert function is tested by creating
+five instances of survivors with last names having numbers 1-5
+appended to them. The expected number of items, 5, is passed in and
+then comapred to the number of nodes in the tree. If they match,
+the insert function works. The print tree and root functions are
+called and compared to expected outputs, the number of leaves, 
+height, preorder, inorder and postorder are also compared to 
+expected outputs depending on what is in the tree and what the
+different traversals look like in a binary tree. The find function
+searches for something that is in the tree and not in the tree
+to make sure it is correctly traversing through the tree and 
+finding an item. The left and right nodes of the binary tree
+are also compared to expected outputs. The copy constructor is
+tested by creating a new instance of a binary tree object, which
+calls the copy. If the length of that binary tree is equal to 
+the number of nodes in the binary tree, we know that we have
+successfully created a deep copy. The remove function is called
+and the number of expected items in the new tree is compared
+to the actual number of nodes. The test average is tested using
+the items already in the tree and new instances of survivors
+with different ages. This is then compared to an expected average.
+An edge case for finding a survivor in a empty tree was tested.
+The survivor is not found, as expected. 
+
+My binary search tree test driver tests the number of nodes the 
+same way as in BT. It then tests removing two children by first
+creating three different survivor objects, inserting them, 
+and removing the root. If the root is successfully removed, we know
+that the item and predecessor are successfully found. The root
+with two children are also successfully removed. This is tested
+by printing the tree after all of these steps are implemented. 
+The insert, find, preorder, inorder, and postorder functions are
+tested in the exact same way as in BT. The expected output will be
+different for the traversal, though, because binary search trees 
+always sort. The get left and right functions are also tested the
+same way by comparing the expected left and rightmost nodes. 
+Finally, removing the leaf and one child nodes are tested by
+creating new instances of a degenerate tree, which means there
+will be two "one child" nodes and one leaf. The one child node
+is first removed, then the leaf, then the root. If the 
+length is equal to the expected length, which is passed in, 
+we can be sure that this part of the implementation also works. 
+
+/* Any parts not implemented: */  
+
+Because this project utilizes dynamic memory, the is_full function is never
+tested. This is because even with an infinite while loop, space on the heap does
+not seem to run out. I had to rely on the notion that the try/catch block in
+the is_full function worked without my trying it. 
