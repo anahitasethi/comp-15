@@ -1,0 +1,163 @@
+/*********************
+* Anahita Sethi
+* COMP 15
+* Project 2
+* GERP 
+* README
+**********************/ 
+
+/******************
+Purpose of program 
+*******************/ 
+This program indexes files of a given directory 
+and then searches for a string within those files. 
+The program then prints out the file pathway, 
+line number the word appears in, and the whole line
+the word appears. 
+
+/****************
+Acknowledgements
+*****************/ 
+The biggest help for this project were undoubtedly
+TA office hours at Halligan. Because this project
+required a lot of planning before going straight to 
+implementation, talking through conceptual ideas 
+was the most useful for me. I spent the first 5-6 
+days not writing any code and just sketching different
+design implementations of the program. 
+
+Meeting with ARC tutor, Margaret Urheim, was also very
+helpful because, again, I was able to talk through some 
+overarching ideas of hash tables with her and discuss 
+different data structures and their tradeoffs when 
+considering memory efficiency. 
+
+Sophie Danielpour, who is currently in COMP 105, sat
+down with me and helped me debug one of my biggest
+issues in the program - where I was seg faulting in 
+my Linked List class. After almost two hours of print
+statements, running valgrind, and a command called 
+"gdb", I realized it was because the head was pointing
+to null. I overcame this issue by getting rid of the 
+Linked List class completely, and writing my own 
+linked list functions in the Hasher class to deal with
+chaining. 
+
+Piazza posts, Stack Over Flow, and past COMP 15 handouts
+were a huge help too. The optional lab on stringstream 
+came in handy when I was handling file processing in my
+open_file function. Looking at past homeworks was also 
+helpful in instances such as the expand function, which
+was similar to the array list in homework 1, and the lab 5
+linked list functions, which I used as a reference when I  
+was writing the search function to iterate through nodes
+of the list. 
+
+/*********************
+Files being provided
+*********************/ 
+1) Hasher.h: Header file for the implementation of the
+Hasher class. The header file contains the structs: 
+Location, Word, and Key. The Location struct contains
+the file pathway and line number where the query appears.
+The Word struct contains the word and the vector of words
+of that same word. The struct Key contains the lowercase
+version of the word and structs of words with that same
+key. This header file also has declarations of 
+private variables: capacity, key_count, file_count, the
+hash table, and function declarations. 
+
+2) Hasher.cpp: Implementation of the Hasher class. The
+functions include a default constructor which initializes
+all private variables, a destructor, a traversal function 
+which recurseively traverses through directories to get
+to files. The functions in this class handle indexing, 
+through file processing, string processing by stripping
+non alphanum characters and converting to lowercase
+versions, and hashing the word using the C++ method of
+returning an index. The functions also handle inserting, 
+inserting a key that already exists, expanding, and rehashing.
+Finally, the functions handle user input of queries by searching
+the hash table and printing the info of the key if found. 
+
+3) Main.cpp: Driver of the program. This file accepts two 
+command line arguments, uses the FSTree and DirNode classes
+to build the tree based on the inputed directory, traverses
+through the tree, and initiates the query process using the
+Hasher class.  
+
+4) Makefile: This tool automates the compilation and linking
+commands, which makes running the program faster. Including 
+-O as a flag also makes the program run a little faster, which
+was something new that I learned this project. 
+
+5) DirNode.cpp: This file was given to us as starter code. It
+is the implementation of the DirNode class, which is a 
+building block for the FSTree class, representing the folders.
+This file was not modified from the original. 
+
+6) DirNode.h: interface for the DirNode class. This was also 
+given to us as a part of the starter code. This file was not
+modified from the original. 
+
+7) FSTree.cpp: This class also comes with the starter code. 
+The FSTree is an "n-ary" tree consisting of DirNodes
+to represent the file system. This file was not modified from
+the original. 
+
+8) FSTree.h: This is the header file for the FSTree class 
+containing function declarations for the FSTree implementation.
+This file was also not modified from the original. 
+
+9) README: File that contains explanations about the program,
+the other files, acknowledgements, data structures, algorithms, 
+and methods of testing. 
+
+/********************************
+Data structures and algorithms
+*********************************/ 
+
+This program makes use of a hash table, which I decided to be an
+underlying dynamic array of linked lists. 
+Hash tables are a data structure that 
+retrieve data very quickly (in constant 0(1) search time), which
+is why using them to search string queries was very efficient. 
+Each index in the hash table has a linked list which points 
+to another key node, so that several keys can be hashed 
+to the same node. This method is known as chaining, and is a 
+way to handle collisions. In order to minimize collisions
+and make searching faster, the hash table is expanded
+and rehashed every five files if the load factor is above
+0.75. The various structs used to efficiently manage the memory
+for the given queries are also examples of data structures 
+implemented in this program. 
+
+Algorithms used in this program are recursion (used in the 
+traversal function, string processing functions, and insert), 
+the C++ hash function which returns an index for a given string, 
+string stream processing to parse words, expanding using a load
+factor and rehashing, and finally, aforementioned chaining, to 
+help overcome collisions. 
+
+/*********************
+Testing my program 
+**********************/ 
+I tested my program by creating subdirectories in my folder 
+with very, very small test files. This was much easier to tackle
+than any of the Gutenbergs which initially took a very long time 
+to index (and were even getting killed), and had so many lines 
+that it was difficult to narrow down the problem. In order to see
+if my hash table looked the way it was supposed to, I created a 
+print_table() function that printed the hash table as well as 
+the file pathway and line number. This function iterated through
+a for loop of the current capacity, or size of the hash table, 
+and created a temp pointer to key which pointed to the hash table
+at the given index. It then iterated through the linked lists
+at that index, and printed out the index, and then iterated
+through another nested for loop to print out the word, location 
+of the word, and the line number it appears in. 
+
+
+
+
+
