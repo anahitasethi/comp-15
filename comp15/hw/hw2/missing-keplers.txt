@@ -1,0 +1,2108 @@
+YZ Ceti d
+YZ Ceti c
+YZ Ceti b
+WASP-167b
+WASP-156b
+WASP-153b
+WASP-151b
+WASP-107b
+WASP-105b
+WASP-91b
+WASP-81b
+WASP-53c
+WASP-53b
+TYC 4282-605-1 b
+TRAPPIST-1h
+TRAPPIST-1g
+TRAPPIST-1f
+TRAPPIST-1e
+Tau Ceti h
+Tau Ceti g
+Tau Ceti f
+Tau Ceti e
+TAP 26 b
+SAND978 b
+Ross 128 b
+Qatar-5b
+Qatar-4b
+Qatar-3b
+PSR J2322-2650 b
+OGLE-2016-BLG-1195Lb
+OGLE-2016-BLG-1190Lb
+OGLE-2016-BLG-0613(AB)b
+OGLE-2016-BLG-0263Lb
+OGLE-2013-BLG-1721Lb
+OGLE-2013-BLG-0132Lb
+NGTS-1b
+MXB 1658-298 b
+MOA-2016-BLG-227Lb
+MOA-2012-BLG-505Lb
+MOA-2012-BLG-006Lb
+MASCARA-1b
+LHS 1140 b
+Kepler-1653b
+Kepler-1652b
+Kepler-1651b
+Kepler-1650b
+Kepler-1649b
+Kepler-150f
+Kepler-90i
+Kepler-80g
+Kepler-19d
+KELT-20b
+KELT-18b
+KELT-16b
+KELT-12b
+KELT-11b
+KELT-9b
+K2-140b
+K2-139b
+K2-137b
+K2-136d
+K2-136c
+K2-136b
+K2-135d
+K2-135c
+K2-135b
+K2-133d
+K2-133c
+K2-133b
+K2-132b
+K2-131b
+K2-130b
+K2-129b
+K2-128b
+K2-127b
+K2-126b
+K2-125b
+K2-124b
+K2-123b
+K2-122b
+K2-121b
+K2-120b
+K2-119b
+K2-118b
+K2-117c
+K2-117b
+K2-116b
+K2-115b
+K2-114b
+K2-113b
+K2-111b
+K2-110b
+K2-108b
+K2-107b
+K2-105b
+K2-18c
+HIP 67537 b
+HIP 65426 b
+HD 208897 b
+HD 177565 b
+HD 176986 c
+HD 176986 b
+HD 147379 b
+HD 113996 b
+HD 111591 b
+HD 106315 c
+HD 106315 b
+HD 76920 b
+HD 42012 b
+HD 40956 b
+HD 34445 g
+HD 34445 f
+HD 34445 e
+HD 34445 d
+HD 34445 c
+HD 29021 b
+HD 27894 d
+HD 27894 c
+HD 20794 e
+HD 17674 b
+HD 3167 d
+HATS-53b
+HATS-52b
+HATS-51b
+HATS-50b
+HATS-24b
+HATS-23b
+HATS-22b
+HAT-P-67b
+Gliese 3942 b
+Gliese 3323 c
+Gliese 3323 b
+Gliese 3293 e
+Gliese 3293 d
+Gliese 3138 d
+Gliese 3138 c
+Gliese 3138 b
+Gliese 1148 c
+Gliese 625 b
+Gliese 273 c
+Gliese 273 b
+CoRoT 223977153 b
+BD+03 2562 b
+YBP 401 b
+XO-6b
+WASP-157b
+WASP-142b
+WASP-141b
+WASP-140b
+WASP-139b
+WASP-138b
+WASP-136b
+WASP-135b
+WASP-133b
+WASP-132b
+WASP-131b
+WASP-130b
+WASP-129b
+WASP-127b
+WASP-126b
+WASP-124b
+WASP-123b
+WASP-121b
+WASP-120b
+WASP-119b
+WASP-118b
+WASP-114b
+WASP-113b
+WASP-93b
+WASP-92b
+WASP-90b
+WASP-85Ab
+WASP-76b
+V830 Tauri b
+TYC 3667-1280-1 b
+TRAPPIST-1d
+TRAPPIST-1c
+TRAPPIST-1b
+Rho Coronae Borealis c
+Proxima Centauri b
+Pr0211 c
+OGLE-2014-BLG-1760Lb
+OGLE-2012-BLG-0950Lb
+OGLE-2015-BLG-0966Lb
+OGLE-2015-BLG-0954Lb
+OGLE-2015-BLG-0051Lb
+OGLE-2014-BLG-0676Lb
+OGLE-2012-BLG-0724Lb
+OGLE-2007-BLG-349(AB)c
+MOA-2013-BLG-605Lb
+MOA-2011-BLG-028Lb
+Kepler-1647b
+Kepler-1646b
+Kepler-1645b
+Kepler-1644b
+Kepler-1643b
+Kepler-1642c
+Kepler-1642b
+Kepler-1641c
+Kepler-1641b
+Kepler-1640b
+Kepler-1639b
+Kepler-1638b
+Kepler-1637b
+Kepler-1636b
+Kepler-1635b
+Kepler-1634b
+Kepler-1633b
+Kepler-1632b
+Kepler-1631b
+Kepler-1630b
+Kepler-1629b
+Kepler-1628b
+Kepler-1627b
+Kepler-1626b
+Kepler-1625b
+Kepler-1624b
+Kepler-1623b
+Kepler-1622b
+Kepler-1621b
+Kepler-1620b
+Kepler-1619b
+Kepler-1618b
+Kepler-1617b
+Kepler-1616b
+Kepler-1615b
+Kepler-1614b
+Kepler-1613b
+Kepler-1612b
+Kepler-1611b
+Kepler-1610b
+Kepler-1609b
+Kepler-1608b
+Kepler-1607b
+Kepler-1606b
+Kepler-1605b
+Kepler-1604b
+Kepler-1603b
+Kepler-1602b
+Kepler-1601b
+Kepler-1600b
+Kepler-1599b
+Kepler-1598b
+Kepler-1597b
+Kepler-1596b
+Kepler-1595b
+Kepler-1594b
+Kepler-1593b
+Kepler-1592b
+Kepler-1591b
+Kepler-1590b
+Kepler-1589b
+Kepler-1588b
+Kepler-1587b
+Kepler-1586b
+Kepler-1585b
+Kepler-1584b
+Kepler-1583b
+Kepler-1582b
+Kepler-1581b
+Kepler-1580b
+Kepler-1579b
+Kepler-1578b
+Kepler-1577b
+Kepler-1576b
+Kepler-1575b
+Kepler-1574b
+Kepler-1573b
+Kepler-1572b
+Kepler-1571b
+Kepler-1570b
+Kepler-1569b
+Kepler-1568b
+Kepler-1567b
+Kepler-1566b
+Kepler-1565b
+Kepler-1564b
+Kepler-1563b
+Kepler-1562b
+Kepler-1561b
+Kepler-1560b
+Kepler-1559b
+Kepler-1558b
+Kepler-1557b
+Kepler-1556b
+Kepler-1555b
+Kepler-1554b
+Kepler-1553b
+Kepler-1552b
+Kepler-1551b
+Kepler-1550b
+Kepler-1549b
+Kepler-1548b
+Kepler-1547b
+Kepler-1546b
+Kepler-1545b
+Kepler-1544b
+Kepler-1543b
+Kepler-1542e
+Kepler-1542d
+Kepler-1542c
+Kepler-1542b
+Kepler-1541b
+Kepler-1540b
+Kepler-1539b
+Kepler-1538b
+Kepler-1537b
+Kepler-1536b
+Kepler-1535b
+Kepler-1534b
+Kepler-1533b
+Kepler-1532b
+Kepler-1531b
+Kepler-1530c
+Kepler-1530b
+Kepler-1529b
+Kepler-1528b
+Kepler-1527b
+Kepler-1526b
+Kepler-1525b
+Kepler-1524b
+Kepler-1523b
+Kepler-1522b
+Kepler-1521b
+Kepler-1520b
+Kepler-1519b
+Kepler-1518b
+Kepler-1517b
+Kepler-1516b
+Kepler-1515b
+Kepler-1514b
+Kepler-1513b
+Kepler-1512b
+Kepler-1511b
+Kepler-1510b
+Kepler-1509b
+Kepler-1508b
+Kepler-1507b
+Kepler-1506b
+Kepler-1505b
+Kepler-1504b
+Kepler-1503b
+Kepler-1502b
+Kepler-1501b
+Kepler-1500b
+Kepler-1468c
+Kepler-1464c
+Kepler-1398c
+Kepler-1388e
+Kepler-1388d
+Kepler-1388c
+Kepler-1371c
+Kepler-1370c
+Kepler-1365c
+Kepler-1350c
+Kepler-1336c
+Kepler-1321c
+Kepler-1311c
+Kepler-1254d
+Kepler-1254c
+Kepler-1245c
+Kepler-1154c
+Kepler-1143c
+Kepler-1129c
+Kepler-1093c
+Kepler-1086c
+Kepler-1073c
+Kepler-1065c
+Kepler-1050c
+Kepler-1047c
+Kepler-1016c
+Kepler-990c
+Kepler-969c
+Kepler-968c
+Kepler-967c
+Kepler-953c
+Kepler-937c
+Kepler-920c
+Kepler-903c
+Kepler-887c
+Kepler-825c
+Kepler-804c
+Kepler-770d
+Kepler-770c
+Kepler-769c
+Kepler-760c
+Kepler-758e
+Kepler-758d
+Kepler-758c
+Kepler-755c
+Kepler-750c
+Kepler-732c
+Kepler-722c
+Kepler-712c
+Kepler-653c
+Kepler-625c
+Kepler-619c
+Kepler-616c
+Kepler-610c
+Kepler-605c
+Kepler-603d
+Kepler-603c
+Kepler-561c
+Kepler-553c
+Kepler-549c
+Kepler-539c
+Kepler-529c
+Kepler-524c
+Kepler-520c
+Kepler-487c
+Kepler-466c
+Kepler-436c
+Kepler-411c
+Kepler-403d
+Kepler-401d
+Kepler-398d
+Kepler-351d
+Kepler-342e
+Kepler-304e
+Kepler-271d
+Kepler-255d
+Kepler-245e
+Kepler-218d
+Kepler-217d
+Kepler-198d
+Kepler-192d
+Kepler-191d
+Kepler-176e
+Kepler-167e
+Kepler-167d
+Kepler-166d
+Kepler-157d
+Kepler-154f
+Kepler-154e
+Kepler-154d
+Kepler-148d
+Kepler-132e
+Kepler-80f
+Kepler-56d
+Kepler-20g
+KIC 7917485 b
+KELT-17b
+KELT-15b
+KELT-14b
+KELT-10b
+KELT-4Ab
+K2-104b
+K2-102b
+K2-101b
+K2-100b
+K2-99b
+K2-98b
+K2-97b
+K2-95b
+K2-91b
+K2-90c
+K2-90b
+K2-89b
+K2-88b
+K2-87b
+K2-86b
+K2-85b
+K2-84c
+K2-84b
+K2-83c
+K2-83b
+K2-81b
+K2-80c
+K2-80b
+K2-79b
+K2-77b
+K2-75c
+K2-75b
+K2-74b
+K2-73b
+K2-72e
+K2-72d
+K2-72c
+K2-72b
+K2-71b
+K2-70b
+K2-69b
+K2-68b
+K2-66b
+K2-65b
+K2-64b
+K2-63b
+K2-62c
+K2-62b
+K2-61b
+K2-60b
+K2-59c
+K2-59b
+K2-58d
+K2-58c
+K2-58b
+K2-57b
+K2-55b
+K2-54b
+K2-53b
+K2-52b
+K2-50b
+K2-49b
+K2-48b
+K2-47b
+K2-46b
+K2-45b
+K2-44b
+K2-43b
+K2-42b
+K2-39b
+K2-38c
+K2-38b
+K2-37d
+K2-37c
+K2-37b
+K2-36c
+K2-36b
+K2-35c
+K2-35b
+K2-34b
+K2-33b
+K2-32d
+K2-32c
+K2-32b
+K2-31b
+K2-30b
+K2-29b
+K2-28b
+K2-27b
+K2-26b
+K2-24c
+K2-24b
+K2-19d
+K2-8c
+HR 2562 b
+HIP 109600 b
+HIP 109384 b
+HIP 74890 b
+HIP 65407 c
+HIP 65407 b
+HIP 41378 f
+HIP 41378 e
+HIP 41378 d
+HIP 41378 c
+HIP 41378 b
+HIP 8541 b
+HD 224538 b
+HD 222076 b
+HD 221585 b
+HD 220842 b
+HD 219828 c
+HD 214823 b
+HD 191806 b
+HD 165155 b
+HD 164922 c
+HD 147873 c
+HD 147873 b
+HD 143105 b
+HD 133131 Bb
+HD 133131 Ac
+HD 133131 Ab
+HD 128356 b
+HD 87646 b
+HD 86950 b
+HD 72892 b
+HD 68402 b
+HD 59686 Ab
+HD 42618 b
+HD 35759 b
+HD 30177 c
+HD 12484 b
+HD 9174 b
+HD 5583 b
+HD 3167 c
+HD 3167 b
+HATS-35b
+HATS-34b
+HATS-33b
+HATS-32b
+HATS-31b
+HATS-30b
+HATS-29b
+HATS-28b
+HATS-27b
+HATS-26b
+HATS-25b
+HATS-18b
+HATS-17b
+HATS-16b
+HATS-15b
+HATS-12b
+HATS-11b
+HAT-P-66b
+HAT-P-65b
+Gliese 3998 c
+Gliese 3998 b
+Gliese 676 Ac
+Gliese 536 b
+EPIC 220674823 c
+EPIC 220674823 b
+EPIC 211822797 b
+BD+20 594 b
+BD+15 2375 b
+2MASS J22362452+4751425 b
+Wolf 1061d
+Wolf 1061c
+Wolf 1061b
+WASP-121b
+WASP-89b
+WASP-83b
+WASP-82b
+WASP-74b
+WASP-47e
+WASP-47d
+WASP-47c
+WASP-41c
+WASP-20b
+VHS 1256-1257 b
+Psi1 Draconis Bb
+OGLE-2014-BLG-124Lb
+OGLE-2012-BLG-0563Lb
+OGLE-2011-BLG-265Lb
+MOA-2010-BLG-353Lb
+LkCa 15 c
+LkCa 15 b
+Kepler-454c
+Kepler-450d
+Kepler-450c
+Kepler-449c
+Kepler-446d
+Kepler-446c
+Kepler-445d
+Kepler-445c
+Kepler-444f
+Kepler-444e
+Kepler-444d
+Kepler-444c
+Kepler-432c
+Kepler-431d
+Kepler-431c
+Kepler-430c
+Kepler-92d
+KOI-12b
+KIC 8540376 c
+KIC 8540376 b
+KIC 10525077 b
+KIC 9663113 b
+KIC 5951458 b
+KIC 5437945 b
+KIC 3558849 b
+KELT-8b
+KELT-7b
+KELT-6c
+K2-25b
+K2-22b
+K2-21c
+K2-21b
+K2-19c
+K2-19b
+K2-18b
+K2-17b
+K2-16c
+K2-16b
+K2-15b
+K2-14b
+K2-13b
+K2-12b
+K2-11b
+K2-10b
+K2-9b
+K2-8b
+K2-7b
+K2-6b
+K2-5c
+K2-5b
+K2-4b
+K2-3d
+K2-3c
+K2-3b
+HIP 107773 b
+HIP 67851 c
+HIP 67851 b
+HIP 65891 b
+HD 219134 h
+HD 219134 g
+HD 219134 f
+HD 219134 d
+HD 219134 c
+HD 219134 b
+HD 216536 b
+HD 204313 c
+HD 175607 b
+HD 164595 b
+HD 155233 b
+HD 145934 b
+HD 95872 b
+HD 95127 b
+HD 67087 c
+HD 67087 b
+HD 33844 c
+HD 33844 b
+HD 32963 b
+HD 24064 b
+HD 12648 b
+HD 11755 b
+HD 7924 d
+HD 7924 c
+HD 1666 b
+HD 1605 c
+HD 1605 b
+HD 1461 c
+HATS-14b
+HATS-13b
+HATS-10b
+HATS-9b
+HATS-8b
+HATS-6b
+HAT-P-57b
+HAT-P-56b
+HAT-P-55b
+HAT-P-54b
+HAT-P-53b
+HAT-P-52b
+HAT-P-51b
+HAT-P-50b
+Gliese 3341 b
+Gliese 3293 c
+Gliese 3293 b
+Gliese 1132 b
+COROT-33b
+COROT-29b
+COROT-28b
+BD+49 828 b
+Aldebaran b
+8 Ursae Minoris b
+51 Eridani b
+2MASS J19383260+4603591 b
+2MASS J02192210-3925225 b
+YBP 1514 b
+YBP 1194 b
+XO-2Sc
+XO-2Sb
+WTS-2b
+WASP-117b
+WASP-106b
+WASP-104b
+WASP-103b
+WASP-101b
+WASP-100b
+WASP-99b
+WASP-98b
+WASP-97b
+WASP-96b
+WASP-95b
+WASP-94Bb
+WASP-94Ab
+WASP-88b
+WASP-84b
+WASP-73b
+WASP-70Ab
+WASP-69b
+WASP-68b
+WASP-28b
+TYC 1422-614-1 c
+TYC 1422-614-1 b
+SAND364 b
+OGLE-2013-BLG-341LBb
+OGLE-2013-BLG-102Lb
+OGLE-2008-BLG-92Lb
+OGLE-2008-BLG-355Lb
+Mu Leonis b
+MOA-2011-BLG-262Lb
+Kepler-424c
+Kepler-420Ab
+Kepler-419c
+Kepler-417c
+Kepler-416c
+Kepler-415c
+Kepler-414c
+Kepler-407c
+Kepler-406c
+Kepler-405c
+Kepler-404c
+Kepler-403c
+Kepler-402e
+Kepler-402d
+Kepler-402c
+Kepler-401c
+Kepler-400c
+Kepler-399d
+Kepler-399c
+Kepler-398c
+Kepler-397c
+Kepler-395c
+Kepler-394c
+Kepler-393c
+Kepler-392c
+Kepler-391c
+Kepler-390c
+Kepler-389c
+Kepler-388c
+Kepler-387c
+Kepler-386c
+Kepler-385c
+Kepler-384c
+Kepler-383c
+Kepler-382c
+Kepler-381c
+Kepler-380c
+Kepler-379c
+Kepler-378c
+Kepler-377c
+Kepler-376c
+Kepler-375c
+Kepler-374d
+Kepler-374c
+Kepler-373c
+Kepler-372d
+Kepler-372c
+Kepler-371c
+Kepler-370c
+Kepler-369c
+Kepler-368c
+Kepler-367c
+Kepler-366c
+Kepler-365c
+Kepler-364c
+Kepler-363d
+Kepler-363c
+Kepler-362c
+Kepler-361c
+Kepler-360c
+Kepler-359d
+Kepler-359c
+Kepler-358c
+Kepler-357d
+Kepler-357c
+Kepler-356c
+Kepler-355c
+Kepler-354d
+Kepler-354c
+Kepler-353c
+Kepler-352c
+Kepler-351c
+Kepler-349c
+Kepler-348c
+Kepler-347c
+Kepler-346c
+Kepler-345c
+Kepler-344c
+Kepler-343c
+Kepler-342d
+Kepler-342c
+Kepler-341e
+Kepler-341d
+Kepler-341c
+Kepler-340c
+Kepler-339d
+Kepler-339c
+Kepler-338e
+Kepler-338d
+Kepler-338c
+Kepler-337c
+Kepler-336d
+Kepler-336c
+Kepler-335c
+Kepler-334d
+Kepler-334c
+Kepler-333c
+Kepler-332d
+Kepler-332c
+Kepler-331d
+Kepler-331c
+Kepler-330c
+Kepler-329c
+Kepler-327d
+Kepler-327c
+Kepler-326d
+Kepler-326c
+Kepler-325d
+Kepler-325c
+Kepler-324c
+Kepler-323c
+Kepler-322c
+Kepler-321c
+Kepler-320c
+Kepler-319d
+Kepler-319c
+Kepler-318c
+Kepler-317c
+Kepler-316c
+Kepler-315c
+Kepler-314c
+Kepler-313c
+Kepler-312c
+Kepler-311c
+Kepler-310d
+Kepler-310c
+Kepler-309c
+Kepler-308c
+Kepler-306e
+Kepler-306d
+Kepler-306c
+Kepler-305d
+Kepler-304d
+Kepler-304c
+Kepler-303c
+Kepler-302c
+Kepler-301d
+Kepler-301c
+Kepler-300c
+Kepler-299e
+Kepler-299d
+Kepler-299c
+Kepler-298d
+Kepler-298c
+Kepler-297c
+Kepler-296f
+Kepler-296e
+Kepler-296d
+Kepler-296c
+Kepler-295d
+Kepler-295c
+Kepler-294c
+Kepler-293c
+Kepler-292f
+Kepler-292e
+Kepler-292d
+Kepler-292c
+Kepler-291c
+Kepler-290c
+Kepler-289d
+Kepler-289c
+Kepler-288d
+Kepler-288c
+Kepler-287c
+Kepler-286e
+Kepler-286d
+Kepler-286c
+Kepler-285c
+Kepler-284c
+Kepler-283c
+Kepler-282c
+Kepler-281c
+Kepler-280c
+Kepler-278c
+Kepler-275d
+Kepler-275c
+Kepler-274c
+Kepler-273c
+Kepler-272d
+Kepler-272c
+Kepler-271c
+Kepler-270c
+Kepler-269c
+Kepler-268c
+Kepler-267d
+Kepler-267c
+Kepler-266c
+Kepler-265e
+Kepler-265d
+Kepler-265c
+Kepler-264c
+Kepler-263c
+Kepler-262c
+Kepler-261c
+Kepler-260c
+Kepler-259c
+Kepler-258c
+Kepler-257d
+Kepler-257c
+Kepler-256e
+Kepler-256d
+Kepler-256c
+Kepler-255c
+Kepler-254d
+Kepler-254c
+Kepler-253d
+Kepler-253c
+Kepler-252c
+Kepler-251e
+Kepler-251d
+Kepler-251c
+Kepler-250d
+Kepler-250c
+Kepler-249d
+Kepler-249c
+Kepler-248c
+Kepler-247d
+Kepler-247c
+Kepler-246c
+Kepler-245d
+Kepler-245c
+Kepler-244d
+Kepler-244c
+Kepler-243c
+Kepler-242c
+Kepler-241c
+Kepler-240c
+Kepler-239c
+Kepler-238d
+Kepler-238c
+Kepler-237c
+Kepler-236c
+Kepler-235e
+Kepler-235d
+Kepler-235c
+Kepler-234c
+Kepler-233c
+Kepler-232c
+Kepler-231c
+Kepler-230c
+Kepler-229d
+Kepler-229c
+Kepler-228d
+Kepler-228c
+Kepler-227c
+Kepler-226d
+Kepler-226c
+Kepler-225c
+Kepler-224e
+Kepler-224d
+Kepler-224c
+Kepler-223e
+Kepler-223d
+Kepler-223c
+Kepler-222d
+Kepler-222c
+Kepler-221e
+Kepler-221d
+Kepler-221c
+Kepler-220e
+Kepler-220d
+Kepler-220c
+Kepler-219d
+Kepler-219c
+Kepler-218c
+Kepler-217c
+Kepler-216c
+Kepler-215e
+Kepler-215d
+Kepler-215c
+Kepler-214c
+Kepler-213c
+Kepler-212c
+Kepler-211c
+Kepler-210c
+Kepler-209c
+Kepler-208e
+Kepler-208d
+Kepler-208c
+Kepler-207d
+Kepler-207c
+Kepler-206d
+Kepler-206c
+Kepler-205c
+Kepler-204c
+Kepler-203d
+Kepler-203c
+Kepler-202c
+Kepler-201c
+Kepler-200c
+Kepler-199c
+Kepler-198c
+Kepler-197e
+Kepler-197d
+Kepler-197c
+Kepler-196c
+Kepler-195c
+Kepler-194d
+Kepler-194c
+Kepler-193c
+Kepler-192c
+Kepler-191c
+Kepler-190c
+Kepler-189c
+Kepler-188c
+Kepler-187c
+Kepler-186f
+Kepler-186e
+Kepler-186d
+Kepler-186c
+Kepler-185c
+Kepler-184d
+Kepler-184c
+Kepler-183c
+Kepler-182c
+Kepler-181c
+Kepler-180c
+Kepler-179c
+Kepler-178d
+Kepler-178c
+Kepler-176d
+Kepler-176c
+Kepler-175c
+Kepler-174d
+Kepler-174c
+Kepler-173c
+Kepler-172e
+Kepler-172d
+Kepler-172c
+Kepler-171d
+Kepler-171c
+Kepler-170c
+Kepler-169f
+Kepler-169e
+Kepler-169d
+Kepler-169c
+Kepler-168c
+Kepler-167c
+Kepler-166c
+Kepler-165c
+Kepler-164d
+Kepler-164c
+Kepler-163c
+Kepler-162c
+Kepler-161c
+Kepler-160c
+Kepler-159c
+Kepler-158c
+Kepler-157c
+Kepler-156c
+Kepler-155c
+Kepler-154c
+Kepler-153c
+Kepler-152c
+Kepler-151c
+Kepler-150e
+Kepler-150d
+Kepler-150c
+Kepler-149d
+Kepler-149c
+Kepler-148c
+Kepler-147c
+Kepler-146c
+Kepler-144c
+Kepler-143c
+Kepler-142d
+Kepler-142c
+Kepler-141c
+Kepler-140c
+Kepler-139c
+Kepler-138d
+Kepler-138c
+Kepler-137c
+Kepler-136c
+Kepler-135c
+Kepler-134c
+Kepler-133c
+Kepler-132d
+Kepler-132c
+Kepler-131c
+Kepler-130d
+Kepler-130c
+Kepler-129c
+Kepler-127d
+Kepler-127c
+Kepler-126d
+Kepler-126c
+Kepler-125c
+Kepler-124d
+Kepler-124c
+Kepler-123c
+Kepler-122f
+Kepler-122e
+Kepler-122d
+Kepler-122c
+Kepler-121c
+Kepler-120c
+Kepler-119c
+Kepler-118c
+Kepler-117c
+Kepler-116c
+Kepler-115c
+Kepler-113c
+Kepler-112c
+Kepler-111c
+Kepler-110c
+Kepler-109c
+Kepler-108c
+Kepler-107e
+Kepler-107d
+Kepler-107c
+Kepler-106e
+Kepler-106d
+Kepler-106c
+Kepler-105c
+Kepler-104d
+Kepler-104c
+Kepler-103c
+Kepler-102f
+Kepler-102d
+Kepler-102c
+Kepler-101c
+Kepler-100d
+Kepler-100c
+Kepler-97c
+Kepler-94c
+Kepler-93c
+Kepler-85e
+Kepler-85d
+Kepler-84f
+Kepler-84e
+Kepler-84d
+Kepler-83d
+Kepler-82e
+Kepler-82d
+Kepler-81d
+Kepler-80e
+Kepler-80d
+Kepler-79e
+Kepler-79d
+Kepler-58d
+Kepler-55f
+Kepler-55e
+Kepler-55d
+Kepler-54d
+Kepler-53d
+Kepler-52d
+Kepler-51d
+Kepler-49e
+Kepler-49d
+Kepler-48e
+Kepler-48d
+Kepler-46d
+Kepler-37e
+Kepler-31d
+Kepler-26e
+Kepler-26d
+Kepler-25d
+Kepler-24e
+Kepler-24d
+Kepler-23d
+KIC 10001893 d
+KIC 10001893 c
+KIC 10001893 b
+KELT-6b
+Kapteyn c
+HIP 116454 b
+HIP 105854 b
+HIP 97233 b
+HD 330075 b
+HD 154857 c
+HD 141399 e
+HD 141399 d
+HD 141399 c
+HD 141399 b
+HD 114613 b
+HD 108341 b
+HD 103720 b
+HD 100546 b
+HD 75784 b
+HD 30669 b
+HD 14067 b
+HD 10442 b
+HD 5319 c
+HD 4203 c
+HD 564 b
+HATS-5b
+HATS-4b
+HAT-P-49b
+HAT-P-46b
+HAT-P-45b
+HAT-P-44c
+HAT-P-44b
+GU Piscium b
+Gliese 832 c
+Gliese 687 b
+Gliese 15 Ab
+COROT-27b
+COROT-24c
+COROT-24b
+COROT-22b
+Beta Ursae Minoris b
+Beta Cancri b
+BD-11 4672 b
+WASP-75b
+WASP-65b
+WASP-8c
+Tau Geminorum b
+ROXs 42Bb
+ROXs 12b
+POTS-1b
+PH2b
+Omega Serpentis b
+OGLE-2012-BLG-406Lb
+OGLE-2012-BLG-358Lb
+MOA-2011-BLG-322Lb
+MOA-2010-BLG-328Lb
+MOA-2008-BLG-379Lb
+Kepler-410Ab
+Kepler-396c
+Kepler-350d
+Kepler-350c
+Kepler-328c
+Kepler-307c
+Kepler-305c
+Kepler-282e
+Kepler-282d
+Kepler-279d
+Kepler-279c
+Kepler-277c
+Kepler-276d
+Kepler-276c
+Kepler-238f
+Kepler-238e
+Kepler-177c
+Kepler-145c
+Kepler-128c
+Kepler-114d
+Kepler-114c
+Kepler-102e
+Kepler-92c
+Kepler-90h
+Kepler-90g
+Kepler-90f
+Kepler-90e
+Kepler-90d
+Kepler-90c
+Kepler-89e
+Kepler-89d
+Kepler-89c
+Kepler-88c
+Kepler-87c
+Kepler-69c
+Kepler-68d
+Kepler-68c
+Kepler-62f
+Kepler-62e
+Kepler-62d
+Kepler-62c
+Kepler-37d
+Kepler-37c
+KELT-3b
+HIP 91258 b
+HIP 63242 b
+HD 285507 b
+HD 233604 b
+HD 159243 c
+HD 159243 b
+HD 120084 b
+HD 113337 b
+HD 109271 c
+HD 109271 b
+HD 106906 b
+HD 103774 b
+HD 95086 b
+HD 65216 c
+HD 40307 g
+HD 40307 f
+HD 13908 c
+HD 13908 b
+HD 2952 b
+HATS-3b
+HATS-2b
+Gliese 667 Cg
+Gliese 667 Cf
+Gliese 667 Ce
+Gliese 504 b
+Gliese 328 b
+Gliese 221 c
+Gliese 221 b
+Gliese 163 d
+Gliese 163 c
+Gliese 163 b
+DENIS-P J082303.1-491201 b
+COROT-26b
+COROT-25b
+BD+15 2940 b
+2MASS J01225093-2439505 b
+WTS-1b
+WISE 1217+1626 b
+WASP-80b
+WASP-79b
+WASP-78b
+WASP-77Ab
+WASP-72b
+WASP-71b
+WASP-67b
+WASP-66b
+WASP-64b
+WASP-63b
+WASP-62b
+WASP-61b
+WASP-60b
+WASP-59b
+WASP-58b
+WASP-57b
+WASP-56b
+WASP-55b
+WASP-54b
+WASP-52b
+WASP-49b
+WASP-47b
+WASP-42b
+WASP-41b
+RR Caeli b
+Pr0211 b
+Pr0201 b
+PH1b
+Omicron Ursae Majoris b
+Omicron Coronae Borealis b
+OGLE-2012-BLG-26Lc
+OGLE-2012-BLG-26Lb
+OGLE-2011-BLG-251Lb
+Nu Ophiuchi c
+Nu Ophiuchi b
+Mu2 Octantis b
+MOA-bin-1L b
+MOA-2011-BLG-293Lb
+MOA-2010-BLG-477Lb
+MOA-2010-BLG-073Lb
+Kepler-85c
+Kepler-84c
+Kepler-83c
+Kepler-82c
+Kepler-81c
+Kepler-80c
+Kepler-79c
+Kepler-65d
+Kepler-65c
+Kepler-60d
+Kepler-60c
+Kepler-59c
+Kepler-58c
+Kepler-57c
+Kepler-56c
+Kepler-55c
+Kepler-54c
+Kepler-53c
+Kepler-52c
+Kepler-51c
+Kepler-50c
+Kepler-49c
+Kepler-48c
+Kepler-47c
+Kepler-46c
+Kepler-36c
+Kepler-32f
+Kepler-32e
+Kepler-32d
+Kepler-30d
+Kepler-30c
+KELT-2Ab
+KELT-1b
+Kappa Andromedae b
+HD 220689 b
+HD 220074 b
+HD 219415 b
+HD 219077 b
+HD 208527 b
+HD 207832 c
+HD 207832 b
+HD 197037 b
+HD 166724 b
+HD 159868 c
+HD 150706 b
+HD 106515 Ab
+HD 100655 b
+HD 98649 b
+HD 77338 b
+HD 66141 b
+HD 37605 c
+HD 27631 b
+HD 5608 b
+HD 4732 c
+HD 4732 b
+HD 142 c
+HATS-1b
+HAT-P-43b
+HAT-P-42b
+HAT-P-41b
+HAT-P-40b
+HAT-P-39b
+HAT-P-38b
+Gliese 3470 b
+Gliese 676 Ae
+Gliese 676 Ad
+Epsilon Coronae Borealis b
+BD+20 274 b
+75 Ceti b
+WD 0806-661 b
+WASP-50b
+WASP-48b
+WASP-46b
+WASP-45b
+WASP-44b
+WASP-43b
+WASP-39b
+WASP-36b
+WASP-35b
+UZ Fornacis c
+UZ Fornacis b
+TrES-5b
+Qatar-2b
+PSR J1719-1438 b
+NY Virginis b
+MOA-2009-BLG-266Lb
+Kepler-70c
+Kepler-42d
+Kepler-42c
+Kepler-33f
+Kepler-33e
+Kepler-33d
+Kepler-33c
+Kepler-32c
+Kepler-31c
+Kepler-29c
+Kepler-28c
+Kepler-27c
+Kepler-26c
+Kepler-25c
+Kepler-24c
+Kepler-23c
+Kepler-20f
+Kepler-20e
+Kepler-20d
+Kepler-20c
+Kepler-19c
+Kepler-18d
+Kepler-18c
+Kepler-10c
+HIP 57274 d
+HIP 57274 c
+HIP 57274 b
+HIP 5158 c
+HD 240237 b
+HD 222155 b
+HD 220773 b
+HD 217786 b
+HD 204941 b
+HD 192310 c
+HD 192310 b
+HD 158038 b
+HD 152581 b
+HD 142245 b
+HD 137388 Ab
+HD 132563 b
+HD 131496 b
+HD 116029 b
+HD 108863 b
+HD 106270 b
+HD 102329 b
+HD 99706 b
+HD 98219 b
+HD 96127 b
+HD 96063 b
+HD 85512 b
+HD 82886 b
+HD 79498 b
+HD 33142 b
+HD 30856 b
+HD 28678 b
+HD 22781 b
+HD 20794 d
+HD 20794 c
+HD 20794 b
+HD 18742 b
+HD 7449 b
+HD 7199 b
+HD 5891 b
+HD 1502 b
+HAT-P-37b
+HAT-P-36b
+HAT-P-35b
+HAT-P-34b
+HAT-P-33b
+HAT-P-32b
+HAT-P-31b
+HAT-P-30b
+HAT-P-29b
+HAT-P-28b
+HAT-P-27b
+Gliese 667 Cc
+Gliese 667 Cb
+Gliese 433 b
+COROT-23b
+COROT-21b
+COROT-20b
+COROT-19b
+COROT-18b
+COROT-17b
+COROT-16b
+CFBDSIR J145829+101343 b
+BD+48 738 b
+7 Canis Majoris b
+WASP-38b
+WASP-37b
+WASP-34b
+WASP-33b
+WASP-32b
+WASP-31b
+WASP-29b
+WASP-26b
+WASP-25b
+WASP-24b
+WASP-23b
+WASP-22b
+WASP-21b
+WASP-8b
+V429 Geminorum b
+SR 12 c
+Qatar-1b
+NN Serpentis d
+NN Serpentis c
+MOA-2009-BLG-387Lb
+MOA-2009-BLG-319Lb
+Kepler-11g
+Kepler-11f
+Kepler-11e
+Kepler-11d
+Kepler-11c
+Kepler-9d
+Kepler-9c
+HR 8799 e
+HIP 78530 b
+HIP 57050 b
+HIP 12961 b
+HD 218566 b
+HD 204313 b
+HD 200964 c
+HD 200964 b
+HD 180314 b
+HD 177830 c
+HD 164509 b
+HD 163607 c
+HD 163607 b
+HD 156668 b
+HD 145457 b
+HD 113538 c
+HD 113538 b
+HD 109246 b
+HD 102956 b
+HD 102365 b
+HD 97658 b
+HD 44219 b
+HD 43197 b
+HD 38283 b
+HD 31253 b
+HD 28254 b
+HD 25171 b
+HD 10180 h
+HD 10180 g
+HD 10180 f
+HD 10180 e
+HD 10180 d
+HD 10180 c
+HD 8535 b
+HD 1690 b
+HD 1461 b
+HAT-P-26b
+HAT-P-25b
+HAT-P-24b
+HAT-P-23b
+HAT-P-22b
+HAT-P-21b
+HAT-P-20b
+HAT-P-19b
+HAT-P-18b
+HAT-P-17c
+HAT-P-17b
+HAT-P-16b
+HAT-P-15b
+HAT-P-14b
+GSC 06214-00210 b
+Gliese 3634 b
+Gliese 876 e
+Gliese 676 Ab
+DT Virginis c
+COROT-15b
+COROT-14b
+COROT-13b
+COROT-12b
+COROT-11b
+COROT-10b
+COROT-8b
+Alpha Arietis b
+2MASS J04414489+2301513 b
+24 Sextantis c
+24 Sextantis b
+XO-5b
+XO-4b
+XO-3b
+XO-2Nb
+XO-1b
+Xi Aquilae b
+WASP-19b
+WASP-18b
+WASP-17b
+WASP-16b
+WASP-15b
+WASP-14b
+WASP-13b
+WASP-12b
+WASP-11b
+WASP-10b
+WASP-7b
+WASP-6b
+WASP-5b
+WASP-4b
+WASP-3b
+WASP-2b
+WASP-1b
+V391 Pegasi b
+UScoCTIO 108 b
+TrES-4b
+TrES-3b
+TrES-2b
+TrES-1b
+Tau1 Gruis b
+SWEEPS-11
+SWEEPS-04
+Rho Indi b
+PSR B1620-26 b
+Pollux b
+Pi Mensae b
+Oph 162225-240515 b
+OGLE2-TR-L9 b
+OGLE-TR-211b
+OGLE-TR-182b
+OGLE-TR-132b
+OGLE-TR-113b
+OGLE-TR-111b
+OGLE-TR-56b
+OGLE-TR-10b
+OGLE-2007-BLG-368Lb
+OGLE-2006-BLG-109Lc
+OGLE-2006-BLG-109Lb
+OGLE-2005-BLG-71Lb
+OGLE-2005-BLG-390Lb
+OGLE-2005-BLG-169Lb
+OGLE-2003-BLG-235Lb
+NGC 4349-127 b
+NGC 2423-3 b
+Mu Arae e
+Mu Arae d
+Mu Arae c
+Mu Arae b
+MOA-2008-BLG-310Lb
+MOA-2007-BLG-400Lb
+MOA-2007-BLG-192Lb
+Lupus-TR-3b
+Kappa Coronae Borealis b
+Iota Draconis b
+HR 8799 d
+HR 8799 c
+HR 8799 b
+HN Pegasi b
+HIP 79431 b
+HIP 70849 b
+HIP 14810 d
+HIP 14810 c
+HIP 14810 b
+HIP 5158 b
+HD 290327 b
+HD 285968 b
+HD 240210 b
+HD 231701 b
+HD 224693 b
+HD 221287 b
+HD 219828 b
+HD 217107 c
+HD 216770 b
+HD 215497 c
+HD 215497 b
+HD 213240 b
+HD 212771 b
+HD 212301 b
+HD 210702 b
+HD 208487 b
+HD 206610 b
+HD 205739 b
+HD 203030 b
+HD 202206 c
+HD 202206 b
+HD 196885 b
+HD 196050 b
+HD 192699 b
+HD 190984 b
+HD 190647 b
+HD 190360 c
+HD 190360 b
+HD 189733 b
+HD 188015 b
+HD 187123 c
+HD 187085 b
+HD 185269 b
+HD 183263 c
+HD 183263 b
+HD 181720 b
+HD 181433 d
+HD 181433 c
+HD 181433 b
+HD 181342 b
+HD 180902 b
+HD 179949 b
+HD 179079 b
+HD 178911 Bb
+HD 175541 b
+HD 175167 b
+HD 173416 b
+HD 171238 b
+HD 171028 b
+HD 170469 b
+HD 169830 c
+HD 169830 b
+HD 168746 b
+HD 168443 c
+HD 167042 b
+HD 164922 b
+HD 164604 b
+HD 162020 b
+HD 159868 b
+HD 156846 b
+HD 156411 b
+HD 156279 b
+HD 155358 c
+HD 155358 b
+HD 154857 b
+HD 154672 b
+HD 154345 b
+HD 153950 b
+HD 152079 b
+HD 149143 b
+HD 149026 b
+HD 148427 b
+HD 148156 b
+HD 147513 b
+HD 147018 c
+HD 147018 b
+HD 145377 b
+HD 143361 b
+HD 142415 b
+HD 142022 Ab
+HD 141937 b
+HD 139357 b
+HD 136418 b
+HD 132406 b
+HD 131664 b
+HD 129445 b
+HD 128311 c
+HD 128311 b
+HD 126614 b
+HD 125612 d
+HD 125612 c
+HD 125612 b
+HD 125595 b
+HD 121504 b
+HD 118203 b
+HD 117618 b
+HD 117207 b
+HD 114783 b
+HD 114729 b
+HD 114386 b
+HD 111232 b
+HD 109749 b
+HD 108874 c
+HD 108874 b
+HD 108147 b
+HD 107148 b
+HD 106252 b
+HD 104985 b
+HD 104067 b
+HD 103197 b
+HD 102272 b
+HD 102195 b
+HD 102117 b
+HD 101930 b
+HD 100777 b
+HD 99109 b
+HD 96167 b
+HD 95089 b
+HD 93083 b
+HD 92788 b
+HD 90156 b
+HD 89307 b
+HD 88133 b
+HD 87883 b
+HD 86264 b
+HD 86226 b
+HD 86081 b
+HD 85390 b
+HD 83443 b
+HD 82943 c
+HD 82943 b
+HD 81040 b
+HD 80606 b
+HD 76700 b
+HD 75898 b
+HD 74156 c
+HD 74156 b
+HD 73534 b
+HD 73526 c
+HD 73526 b
+HD 73267 b
+HD 73256 b
+HD 72659 b
+HD 70642 b
+HD 70573 b
+HD 69830 d
+HD 69830 c
+HD 69830 b
+HD 68988 b
+HD 66428 b
+HD 65216 b
+HD 63765 b
+HD 63454 b
+HD 60532 c
+HD 60532 b
+HD 52265 b
+HD 50554 b
+HD 50499 b
+HD 49674 b
+HD 48265 b
+HD 47536 b
+HD 47186 c
+HD 47186 b
+HD 46375 b
+HD 45652 b
+HD 45364 c
+HD 45364 b
+HD 45350 b
+HD 43691 b
+HD 41004 Bb
+HD 41004 Ab
+HD 40979 b
+HD 40307 d
+HD 40307 c
+HD 40307 b
+HD 38801 b
+HD 38529 c
+HD 38529 b
+HD 37605 b
+HD 37124 d
+HD 37124 c
+HD 37124 b
+HD 34445 b
+HD 33564 b
+HD 33283 b
+HD 32518 b
+HD 30562 b
+HD 30177 b
+HD 28185 b
+HD 27894 b
+HD 24040 b
+HD 23596 b
+HD 23127 b
+HD 23079 b
+HD 20868 b
+HD 20782 b
+HD 17156 b
+HD 17092 b
+HD 16417 b
+HD 16175 b
+HD 13931 b
+HD 13189 b
+HD 12661 c
+HD 12661 b
+HD 11964 c
+HD 11964 b
+HD 11506 c
+HD 11506 b
+HD 10647 b
+HD 9446 c
+HD 9446 b
+HD 8673 b
+HD 8574 b
+HD 7924 b
+HD 6718 b
+HD 6434 b
+HD 5319 b
+HD 4313 b
+HD 4308 b
+HD 4208 b
+HD 4203 b
+HD 4113 b
+HD 2638 b
+HD 2039 b
+HD 142 b
+HAT-P-13c
+HAT-P-13b
+HAT-P-12b
+HAT-P-11b
+HAT-P-9b
+HAT-P-8b
+HAT-P-7b
+HAT-P-6b
+HAT-P-5b
+HAT-P-4b
+HAT-P-3b
+HAT-P-2b
+HAT-P-1b
+GQ Lupi b
+Gliese 3021 b
+Gliese 1214 b
+Gliese 876 d
+Gliese 876 c
+Gliese 849 b
+Gliese 832 b
+Gliese 674 b
+Gliese 649 b
+Gliese 581 e
+Gliese 581 c
+Gliese 581 b
+Gliese 436 b
+Gliese 317 b
+Gliese 179 b
+Gamma Cephei Ab
+Gamma1 Leonis b
+Fomalhaut b
+FU Tauri b
+Eta2 Hydri b
+Epsilon Tauri b
+Epsilon Reticuli Ab
+Epsilon Eridani b
+DP Leonis b
+DH Tauri b
+COROT-9b
+COROT-7c
+COROT-7b
+COROT-6b
+COROT-5b
+COROT-4b
+COROT-3b
+COROT-2b
+COROT-1b
+CT Chamaeleontis b
+CHXR 73 b
+Chi Virginis b
+Beta Pictoris b
+BD-17 63 b
+BD-10 3166 b
+BD-08 2823 c
+BD-08 2823 b
+BD+20 2457 c
+BD+20 2457 b
+BD+14 4559 b
+AB Pictoris b
+94 Ceti Ab
+91 Aquarii b
+83 Leonis Bb
+81 Ceti b
+79 Ceti b
+61 Virginis d
+61 Virginis c
+61 Virginis b
+6 Lyncis b
+55 Cancri f
+55 Cancri e
+55 Cancri d
+55 Cancri c
+54 Piscium b
+47 Ursae Majoris d
+47 Ursae Majoris c
+42 Draconis b
+41 Lyncis b
+4 Ursae Majoris b
+38 Virginis b
+30 Arietis Bb
+2MASS J21402931+1625183 Ab
+2M1207b
+23 Librae c
+1RXS J160929.1-210524 b
+18 Delphini b
+14 Herculis b
+14 Andromedae b
+11 Ursae Minoris b
+11 Comae Berenices b
+Upsilon Andromedae d
+Upsilon Andromedae c
+Upsilon Andromedae b
+Tau Boötis b
+PSR B1257+12 d
+PSR B1257+12 c
+PSR B1257+12 b
+Iota Horologii b
+HD 222582 b
+HD 217107 b
+HD 210277 b
+HD 209458 b
+HD 195019 b
+HD 192263 b
+HD 187123 b
+HD 177830 b
+HD 168443 b
+HD 130322 b
+HD 114762 b
+HD 89744 b
+HD 75289 b
+Gliese 876 b
+Gliese 86 b
+70 Virginis b
+55 Cancri b
+51 Pegasi b
+47 Ursae Majoris b
+23 Librae b
+16 Cygni Bb
+109 Piscium b
+pluto
+neptune
+uranus
+saturn
+jupiter
+mars
+earth
+venus
+mercury
